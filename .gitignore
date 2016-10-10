@@ -1,0 +1,9 @@
+*.o
+*.lo
+.libs/
+bin/unterm
+bin/vterm-ctrl
+bin/vterm-dump
+libvterm.la
+src/encoding/DECdrawing.inc
+src/encoding/uk.inc
